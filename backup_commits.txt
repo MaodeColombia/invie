@@ -1,0 +1,24 @@
+commit 
+0d0c0dabcabb06abd93c8c58a1776813a988021e
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Sun Apr 8 22:59:51 2018 -0500
+
+    acustica agregada (modificada)
+
+commit fe189ac03fe9b04af987951c4c15313914486553
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 2 21:22:59 2018 -0500
+
+    agregando mas cabecera
+
+commit fa951165162ba2f68bb2929c37b7cce51adb426e
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 2 21:13:30 2018 -0500
+
+    agregando el HEADER
+
+commit 241ab2697aa4da65193235ac932e33bf8650184e
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 2 20:45:17 2018 -0500
+
+    inicializar nuestro landing
