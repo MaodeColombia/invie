@@ -1,1 +1,22 @@
 
+
+8523f44 solamente se cambia un renglon del commit 14a913a
+d1b6d93 SMH3 linea2
+2bae49e SMH2 linea2
+0582a9d SMH1 linea2
+1619dcf SMH3 linea1
+82e6c16 SMH2 linea1
+7b36556 SMH1 linea1
+a733813 SMH3 vacio
+66b10e4 SMH2 vacio
+dc06bfc SMH1 vacio
+298107e archivo commited, vacio
+c6f656e fin modificacion README
+a3d02bb seguimiento a README
+5716320 Merge branch 'nueva-imagen'
+13e304b (RD) invie responsive
+14a913a (hotfix) hotfix1
+9ad8ecd acustica agregada
+fe189ac (tag: 0.5) agregando mas cabecera
+fa95116 (tag: 0.3) agregando el HEADER
+241ab26 (tag: 0.1) inicializar nuestro landing

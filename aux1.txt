@@ -1,0 +1,114 @@
+commit 1748008c5171f948857c5496b26cac9140348fa9
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Tue Apr 17 10:13:55 2018 -0500
+
+    SMH3 linea2
+
+commit 2bae49e13c6ba63781693c678f542c2b19fa7e11
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Tue Apr 17 10:13:09 2018 -0500
+
+    SMH2 linea2
+
+commit 0582a9dadf64f040969fe44c48e77160b28ec6dc
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Tue Apr 17 10:12:54 2018 -0500
+
+    SMH1 linea2
+
+commit 1619dcf42ec81a4ad4d9d5f107560695dce879b8
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Tue Apr 17 09:36:40 2018 -0500
+
+    SMH3 linea1
+
+commit 82e6c1683a93ae2ae37689f4c1fda94269ad1ea4
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Tue Apr 17 09:36:22 2018 -0500
+
+    SMH2 linea1
+
+commit 7b3655620878aceac9e9fd567abcdaeb1fa68a1a
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Tue Apr 17 09:36:04 2018 -0500
+
+    SMH1 linea1
+
+commit a7338133af53d72f98ab5c4d8cac910c0a1782b2
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 16 19:34:42 2018 -0500
+
+    SMH3 vacio
+
+commit 66b10e41625111303d3bb53a939fa66f1b9c32c8
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 16 19:34:18 2018 -0500
+
+    SMH2 vacio
+
+commit dc06bfcdc400297364c72a03e1db5943de2f3384
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 16 19:33:49 2018 -0500
+
+    SMH1 vacio
+
+commit 298107e5f6cb63cb0e5425764ee8f567c0191ab5
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 16 19:23:27 2018 -0500
+
+    archivo commited, vacio
+
+commit c6f656ed7068db5b9c650087f21379abb6a12241
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Sat Apr 14 19:33:12 2018 -0500
+
+    fin modificacion README
+
+commit a3d02bb83d35c819acb184f9d0285aec895f36e1
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Sat Apr 14 13:07:30 2018 -0500
+
+    seguimiento a README
+
+commit 5716320f7971e3644db778a8a1668c0905e6d9fb
+Merge: 14a913a 13e304b
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Fri Apr 13 13:07:09 2018 -0500
+
+    Merge branch 'nueva-imagen'
+
+commit 13e304be433f82cd5378f80d2e769e714155174e
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Thu Apr 12 10:15:20 2018 -0500
+
+    invie responsive
+
+commit 14a913ab8c6d1a0447862c6063a6f577561eff2b
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Thu Apr 12 09:14:54 2018 -0500
+
+    hotfix1
+
+commit 9ad8ecd1be5aa8370259bd31a57f7b6c90d3658c
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Sun Apr 8 22:59:51 2018 -0500
+
+    acustica agregada
+
+commit fe189ac03fe9b04af987951c4c15313914486553
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 2 21:22:59 2018 -0500
+
+    agregando mas cabecera
+
+commit fa951165162ba2f68bb2929c37b7cce51adb426e
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 2 21:13:30 2018 -0500
+
+    agregando el HEADER
+
+commit 241ab2697aa4da65193235ac932e33bf8650184e
+Author: Mauricio Martinez O <maodecolombia@gmail.com>
+Date:   Mon Apr 2 20:45:17 2018 -0500
+
+    inicializar nuestro landing
